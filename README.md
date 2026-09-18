@@ -63,4 +63,5 @@ Se valida la conexión, el envío sucesivo de mensajes, la respuesta con timesta
 
 ### 3. Persistencia en SQLite (`mensajes.db`)
 Consulta directa a la base de datos mediante el script auxiliar para certificar que los campos (`id`, `contenido`, `fecha_envio`, `ip_cliente`) se registraron correctamente:
+
 ![Consulta de Base de Datos](capturas/viewdb.png)
