@@ -58,6 +58,7 @@ Se comprueba el inicio del servicio en el puerto 5000, la aceptación de conexio
 
 ### 2. Cliente 
 Se valida la conexión, el envío sucesivo de mensajes, la respuesta con timestamp devuelta por el servidor y el cierre ordenado mediante la palabra `éxito`:
+
 ![Ejecución del Cliente](capturas/capcliente.png)
 
 ### 3. Persistencia en SQLite (`mensajes.db`)
